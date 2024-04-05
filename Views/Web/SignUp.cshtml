@@ -1,0 +1,48 @@
+﻿@model UserModel
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<h1></h1>
+<link rel="stylesheet" href="~/css/SignUp.css" asp-append-version="true" />
+<div class="signup-wrapper">
+    <div class="signup">
+        <div class="signup-container">
+            <div class="side-image">
+                <img src="~/images/Logo1.png" alt="Side Image">
+            </div>
+            <div class="signup-box">
+                <h2>Sign Up</h2>
+                <form method="post">
+                    <div class="user-box">
+                        <input asp-for="Username" type="text" >
+                        <label>Username</label>
+                    </div>
+                    <div class="user-box">
+                        <input asp-for ="Email" type="text">
+                        <label>Email Id</label>
+                    </div>
+                    
+                    <div class="user-box">
+                        <input asp-for="MobileNo" type="number">
+                        <label>Mobile No.</label>
+                    </div>
+                    <div class="user-box">
+                        <input asp-for="Password" type="password">
+                        <label>Password</label>
+                    </div>
+                    <div class="login-link">
+                        <label>Joined before?<a href="/Web/Login">Login</a></label>
+                    </div>
+                    <button type="submit">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        Submit
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\JP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JP.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\AboutUs.css",
+      "PackagePath": "staticwebassets\\css\\AboutUs.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\AdminEvent.css",
+      "PackagePath": "staticwebassets\\css\\AdminEvent.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\AdminHome.css",
+      "PackagePath": "staticwebassets\\css\\AdminHome.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\Booking.css",
+      "PackagePath": "staticwebassets\\css\\Booking.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\BookingData.css",
+      "PackagePath": "staticwebassets\\css\\BookingData.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\Contactus.css",
+      "PackagePath": "staticwebassets\\css\\Contactus.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\EditEvent.css",
+      "PackagePath": "staticwebassets\\css\\EditEvent.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\EventCard.css",
+      "PackagePath": "staticwebassets\\css\\EventCard.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\Feedback.css",
+      "PackagePath": "staticwebassets\\css\\Feedback.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\FindEvents.css",
+      "PackagePath": "staticwebassets\\css\\FindEvents.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\ForgotPassword.css",
+      "PackagePath": "staticwebassets\\css\\ForgotPassword.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\Services.css",
+      "PackagePath": "staticwebassets\\css\\Services.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\SignUp.css",
+      "PackagePath": "staticwebassets\\css\\SignUp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\Userdata.css",
+      "PackagePath": "staticwebassets\\css\\Userdata.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Black Line art Guitar Store Logo (1) 1.png",
+      "PackagePath": "staticwebassets\\images\\Black Line art Guitar Store Logo (1) 1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Black and White Crown Gaming Logo 1.png",
+      "PackagePath": "staticwebassets\\images\\Black and White Crown Gaming Logo 1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Group 12.jpg",
+      "PackagePath": "staticwebassets\\images\\Group 12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Group 12.png",
+      "PackagePath": "staticwebassets\\images\\Group 12.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Logo.jpg",
+      "PackagePath": "staticwebassets\\images\\Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Logo1.png",
+      "PackagePath": "staticwebassets\\images\\Logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Rectangle 13.png",
+      "PackagePath": "staticwebassets\\images\\Rectangle 13.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Rectangle 14.png",
+      "PackagePath": "staticwebassets\\images\\Rectangle 14.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Rectangle 15.png",
+      "PackagePath": "staticwebassets\\images\\Rectangle 15.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Rectangle 22.png",
+      "PackagePath": "staticwebassets\\images\\Rectangle 22.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\images\\Rectangle 7.png",
+      "PackagePath": "staticwebassets\\images\\Rectangle 7.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JP.props",
+      "PackagePath": "build\\JP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JP.props",
+      "PackagePath": "buildMultiTargeting\\JP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JP.props",
+      "PackagePath": "buildTransitive\\JP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

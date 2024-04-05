@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\controllers\\webcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:controllers\\webcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\views\\web\\bookingdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:views\\web\\bookingdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\views\\web\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:views\\web\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|c:\\users\\dell\\downloads\\jp\\jp\\jp\\models\\bookingedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:models\\bookingedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|c:\\users\\dell\\downloads\\jp\\jp\\jp\\models\\adminevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:models\\adminevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|c:\\users\\dell\\downloads\\jp\\jp\\jp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|c:\\users\\dell\\downloads\\jp\\jp\\jp\\views\\web\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:views\\web\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\views\\web\\eventcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:views\\web\\eventcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|c:\\users\\dell\\downloads\\jp\\jp\\jp\\views\\web\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:views\\web\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\views\\web\\adminhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:views\\web\\adminhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|c:\\users\\dell\\downloads\\jp\\jp\\jp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Migrations\\20240404162222_Registers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240404162222_Registers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12FFC9AF-DBAD-4C39-9F1B-8650FC998651}|JP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminEvent.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Models\\AdminEvent.cs",
+              "RelativeDocumentMoniker": "Models\\AdminEvent.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Models\\AdminEvent.cs",
+              "RelativeToolTip": "Models\\AdminEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:56:59.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:49:12.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\EditEvent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Web\\EditEvent.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\EditEvent.cshtml",
+              "RelativeToolTip": "Views\\Web\\EditEvent.cshtml",
+              "ViewState": "AQIAAA8AAAAAMTMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T17:47:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bookingedit.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Models\\Bookingedit.cs",
+              "RelativeDocumentMoniker": "Models\\Bookingedit.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Models\\Bookingedit.cs",
+              "RelativeToolTip": "Models\\Bookingedit.cs",
+              "ViewState": "AQIAABgAAACAzMzMzMwqwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:15:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Web\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Web\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T17:03:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Controllers\\WebController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WebController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Controllers\\WebController.cs",
+              "RelativeToolTip": "Controllers\\WebController.cs",
+              "ViewState": "AQIAAPwAAAAAlpmZmZkVwPkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:17:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\EventCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Web\\EventCard.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\EventCard.cshtml",
+              "RelativeToolTip": "Views\\Web\\EventCard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:17:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Data\\dbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\dbcontext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Data\\dbcontext.cs",
+              "RelativeToolTip": "Data\\dbcontext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:17:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:35:13.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240404162222_Registers.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Migrations\\20240404162222_Registers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240404162222_Registers.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Migrations\\20240404162222_Registers.cs",
+              "RelativeToolTip": "Migrations\\20240404162222_Registers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:22:22.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T16:17:19.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Models\\BookingModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookingModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Models\\BookingModel.cs",
+              "RelativeToolTip": "Models\\BookingModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:17:19.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingData.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\BookingData.cshtml",
+              "RelativeDocumentMoniker": "Views\\Web\\BookingData.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\BookingData.cshtml",
+              "RelativeToolTip": "Views\\Web\\BookingData.cshtml",
+              "ViewState": "AQIAAC4AAAAAMjMzMzMLwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:17:19.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\Booking.cshtml",
+              "RelativeDocumentMoniker": "Views\\Web\\Booking.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\Booking.cshtml",
+              "RelativeToolTip": "Views\\Web\\Booking.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:17:19.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\AdminHome.cshtml",
+              "RelativeDocumentMoniker": "Views\\Web\\AdminHome.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\JP\\JP\\JP\\Views\\Web\\AdminHome.cshtml",
+              "RelativeToolTip": "Views\\Web\\AdminHome.cshtml",
+              "ViewState": "AQIAAAYAAAAAMTMzMzMLwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:17:19.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

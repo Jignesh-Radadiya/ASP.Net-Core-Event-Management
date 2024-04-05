@@ -1,0 +1,46 @@
+﻿@model ContactModel
+@{
+    ViewData["Title"] = "ContactUs";
+}
+
+<h1></h1>
+<link rel="stylesheet" href="~/css/Contactus.css" asp-append-version="true" />
+<div class="container">
+    <div class="header">
+        <div class="title">
+            <p>Contact</p>
+        </div>
+    </div>
+    <div class="contact">
+        <div class="contact-info">
+            <div class="info">
+                <p>Address</p>
+                <p1>Tramba,Rajkot,360020</p1>
+            </div>
+            <div class="info">
+                <p>Call Us</p>
+                <p1>+917574992569</p1>
+            </div>
+            <div class="info">
+                <p>Mail Us</p>
+                <p1>info@JPevents.com</p1>
+            </div>
+        </div>
+        <div class="contact-form">
+            
+            <div class="form">
+                    <form method="post">
+                <div class="row1">
+                    <input asp-for="Username" placeholder="Name" />
+                    <input asp-for="Email" type="email" placeholder="Email" >
+                
+                    <input asp-for="Subject" placeholder="Subject" >
+                    <textarea asp-for="Message" placeholder="Message"></textarea>
+
+                 <button type="submit" style="position:center">Send</button>
+                </div>
+                    </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+﻿@model UserModel;
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1></h1>
+<link rel="stylesheet" href="~/css/Login.css" asp-append-version="true" />
+<div>
+    <div class="navigation"></div>
+    <div class="login-wrapper">
+        <div class="login">
+            <div class="login-container">
+                <div class="side-image">
+                    <img src="~/images/Logo1.png" alt="Side Image">
+                </div>
+                <div class="login-box">
+                    <h2>Login</h2>
+                    <form method="post">
+                        <div class="user-box">
+                            <input asp-for="Username" type="text"/>
+                            <label>Username</label>
+                        </div>
+                        <div class="user-box">
+                            <input asp-for="Password" type="password"/>
+                            <label>Password</label>
+                        </div>
+                       @*  <div class="link-container">
+                            <a href="/Web/ForgotPassword">Forgott Password</a>
+                        </div> *@
+                        <div class="signup-link">
+                            <label>New to us? <a href="/Web/Signup">Sign Up</a></label>
+                        </div>
+                        <button type="submit" onclick="window.location.href='/Web/Home'">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Submit
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

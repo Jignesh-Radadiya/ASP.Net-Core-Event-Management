@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = JP
+build_property.RootNamespace = JP
+build_property.ProjectDir = C:\Users\DELL\Downloads\JP\JP\JP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL\Downloads\JP\JP\JP
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEFib3V0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/AdminEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEFkbWluRXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/AdminHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEFkbWluSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEJvb2tpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/BookingData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEJvb2tpbmdEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXENvbnRhY3RVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/EditEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEVkaXRFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/EventCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEV2ZW50Q2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEZlZWRiYWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/FindEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEZpbmRFdmVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEZvcmdvdFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXFNlcnZpY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXFNpZ25VcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Web/Userdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViXFVzZXJkYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/JP/JP/JP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0exl0j065x

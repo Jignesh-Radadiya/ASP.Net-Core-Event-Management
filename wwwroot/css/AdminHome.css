@@ -1,0 +1,67 @@
+﻿/* Resetting default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light gray */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Main container styles */
+.container {
+    max-width: 1200px; /* Limiting container width */
+    margin: 0 auto; /* Centering container horizontally */
+    margin-top:100px;
+}
+
+/* Dashboard header styles */
+.header {
+    background-color: #BFDBFE; /* Light blue */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+    .header h1 {
+        font-size: 2rem; /* Large font size */
+        font-weight: bold;
+    }
+
+/* Statistic card styles */
+.card-container {
+    display: flex;
+    justify-content: center;
+    
+    flex-wrap: wrap; /* Allowing cards to wrap to the next line if needed */
+}
+
+.card {
+    flex: 1; /* Each card takes up equal space */
+    width: 250px; /* Limiting card width */
+    background-color: #C6F6D5; /* Light green */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+   
+}
+
+    .card h2 {
+        font-size: 1.5rem; /* Large font size */
+        margin-bottom: 10px;
+    }
+
+    .card p {
+        font-size: 1.2rem; /* Medium font size */
+    }
+
+.card-container a {
+    text-decoration: none;
+}

@@ -1,0 +1,57 @@
+﻿@model BookingModel
+@{
+    ViewData["Title"] = "EditEvent";
+}
+
+
+<div class="updatehotel">
+    <form method="post">
+        <div class="form-col">
+            <!-- For Update a Hotel ID field -->
+            <div class="form-group col-md-6">
+                <label>Id</label>
+                <input type="text" name="Id" class="form-control" id="Id" value="@Model.Id" readonly>
+            </div>
+
+            <!-- For Update a User Name field -->
+            <div class="form-group col-md-6">
+                <label>User Name</label>
+                <input type="text" name="Username" class="form-control" id="Username" value="@Model.Username" placeholder="Enter User Name">
+            </div>
+
+            <!-- For Update an Email field -->
+            <div class="form-group col-md-6">
+                <label>Email</label>
+                <input type="email" name="Email" class="form-control" id="Email" value="@Model.Email" placeholder="Enter Email">
+            </div>
+
+            <!-- For Update a Mobile Number field -->
+            <div class="form-group col-md-6">
+                <label>Mobile No</label>
+                <input type="text" name="MobileNo" class="form-control" id="MobileNo" value="@Model.MobileNo" placeholder="Enter Mobile No">
+            </div>
+
+            <!-- For Update an Event Name field -->
+            <div class="form-group col-md-6">
+                <label>Event Name</label>
+                <input type="text" name="EventName" class="form-control" id="EventName" value="@Model.EventName" placeholder="Enter Event Name">
+            </div>
+
+            <!-- For Update a Date field -->
+            <div class="form-group col-md-6">
+                <label>Date</label>
+                <input type="date" name="Date" class="form-control" id="Date" value="@Model.Date.ToShortDateString()" placeholder="Enter Date">
+            </div>
+
+            <!-- For Update an Event Place field -->
+            <div class="form-group col-md-6">
+                <label>Event Place</label>
+                <input type="text" name="EventPlace" class="form-control" id="EventPlace" value="@Model.EventPlace" placeholder="Enter Event Place">
+            </div>
+
+            <!-- Update Event Button -->
+            <button type="submit" class="btn btn-primary mr-2">Update Event</button>
+            <!-- Back Button -->
+        </div>
+    </form>
+</div>

@@ -1,0 +1,69 @@
+﻿form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%; /* Adjust width as needed */
+    margin-left: 10px; /* Adjust margin as needed */
+}
+
+/* Styles for input fields */
+input[type="number"],
+input[type="text"],
+textarea {
+    width: 400px; /* Adjust width as needed */
+    padding: 10px; /* Adjust padding as needed */
+    margin-top: 10px; /* Adjust margin as needed */
+    background-color: #FFFFE0; /* Adjust background color as needed */
+    border: 1px solid #008000; /* Adjust border color as needed */
+    border-radius: 5px; /* Adjust border radius as needed */
+}
+
+input[type="file"] {
+    width: 400px; /* Adjust width as needed */
+    padding: 10px; /* Adjust padding as needed */
+    margin-top: 10px; /* Adjust margin as needed */
+    background-color: #FFFFE0; /* Adjust background color as needed */
+    border: 1px solid #008000; /* Adjust border color as needed */
+    border-radius: 5px; /* Adjust border radius as needed */
+}
+/* Styles for buttons */
+button {
+    cursor: pointer;
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    text-align: center;
+    color: white;
+    background-color: black; /* Adjust background color as needed */
+    border: none;
+    border-radius: 5px; /* Adjust border radius as needed */
+    margin-top: 10px; /* Adjust margin as needed */
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+    /* Additional styles for specific buttons */
+    button[type="button"] {
+        width: 150px; /* Adjust width as needed */
+    }
+
+    button[type="submit"] {
+        width: 150px; /* Adjust width as needed */
+    }
+
+    /* Hover effect */
+    button:hover {
+        background-color: yellow; /* Change background color on hover */
+    }
+/* Styles for the container */
+div.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding-top: 110px; /* Adjust padding as needed */
+    margin-bottom: 100px; /* Adjust margin as needed */
+    background-color: white; /* Adjust background color as needed */
+    width: 100%;
+}
+.row {
+
+}

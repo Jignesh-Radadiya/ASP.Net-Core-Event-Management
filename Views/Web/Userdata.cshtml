@@ -1,0 +1,36 @@
+﻿@model IEnumerable<UserModel>
+
+
+<link rel="stylesheet" href="~/css/Userdata.css" asp-append-version="true" />
+<div class="container">
+<table class="table table-bordered table-striped" style="width:auto">
+	<thead>
+		<tr>
+			<th>
+				User Name
+			</th>
+			<th>
+				Email
+			</th>
+			<th>
+				Mobile No
+			</th>
+			<th>
+				Password
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var item in Model)
+		{
+			<tr>
+				<td>@(item.Username)</td>
+				<td>@(item.Email)</td>
+				<td>@(item.MobileNo)</td>
+				<td>@(item.Password)</td>
+
+</tr>
+		}
+	</tbody>
+</table>
+</div>

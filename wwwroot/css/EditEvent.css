@@ -1,0 +1,44 @@
+﻿.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Style for form inputs */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Style for labels */
+label {
+    display: block;
+    font-weight: bold;
+}
+
+/* Style for input fields */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Style for validation messages */
+.text-danger {
+    color: red;
+    font-size: 12px;
+}
+
+/* Style for submit button */
+.btn-primary {
+    background-color: #FED8B1;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .btn-primary:hover {
+        background-color: #FED8B1;
+    }

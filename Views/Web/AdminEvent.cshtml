@@ -1,0 +1,42 @@
+﻿@model AdminEvent
+@{
+    ViewData["Title"] = "AdminEvent";
+}
+<link rel="stylesheet" href="~/css/AdminEvent.css" asp-append-version="true" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Form</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <div class="container">
+        <Navbar />
+        <div>
+            <div>
+                <div>
+                    <h1>Add Events description</h1>
+                </div>
+            </div>
+            <form method="post">
+                <div class="row">
+                    <input class="input-field" asp-for="FileUpload" type="file" placeholder='Upload Image' accept=".jpg, .jpeg, .png" required />
+                    <button class="btn" type="button" >
+                        Upload File
+                    </button>
+                </div>
+                <input class="input-field" asp-for="EventTitle" type="text" placeholder="Event Title" required="" />
+                <textarea class="input-field" asp-for="Description" placeholder="Description" required   ></textarea>
+                <textarea class="input-field" asp-for="PackageDetails" placeholder="Package Details" required></textarea>
+                <div>
+                    <button class="btn submit-btn" type="submit" >
+                        Submit
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

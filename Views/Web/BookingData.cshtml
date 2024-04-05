@@ -1,0 +1,120 @@
+﻿@model IEnumerable<BookingModel>
+
+<link rel="stylesheet" href="~/css/BookingData.css" asp-append-version="true" />
+<div class="container">
+    <table class="table table-bordered table-striped" style="width:auto">
+        <thead>
+            <tr>
+                <th>
+                    User Name
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>
+                    Mobile No
+                </th>
+                <th>
+                    Event Name
+                </th>
+                <th>
+                    Date
+                </th>
+                <th>
+                    Event Place
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><span class="editable">@item.Username</span><input class="form-control" style="display:none;" value="@item.Username" /></td>
+                    <td><span class="editable">@item.Email</span><input class="form-control" style="display:none;" value="@item.Email" /></td>
+                    <td><span class="editable">@item.MobileNo</span><input class="form-control" style="display:none;" value="@item.MobileNo" /></td>
+                    <td><span class="editable">@item.EventName</span><input class="form-control" style="display:none;" value="@item.EventName" /></td>
+                    <td><span class="editable">@item.Date</span><input class="form-control" style="display:none;" value="@item.Date" /></td>
+                    <td><span class="editable">@item.EventPlace</span><input class="form-control" style="display:none;" value="@item.EventPlace" /></td>
+                    <td>
+                        <button type="button" asp-controller="Web" class="btn btn-success save-btn" style="display:none;">Save</button>
+                        <button type="button" asp-controller="Web" class="btn btn-primary edit-btn">Edit</button><form method="post" asp-action="Delete1" asp-controller="Web" asp-route-id="@item.Id">
+                        
+                            <button type="submit" class="btn btn-danger">Delete Booking</button>
+                            
+                            
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        // Define a global array to store modified data temporarily
+        var modifiedData = [];
+
+        $(document).ready(function () {
+            $(".edit-btn").click(function () {
+                var row = $(this).closest("tr");
+                row.find("input").show();
+                row.find("span.editable").hide();
+                row.find(".save-btn").show();
+            });
+
+            $(".save-btn").click(function () {
+                var row = $(this).closest("tr");
+                var inputs = row.find("input");
+                var data = {};
+                inputs.each(function () {
+                    var fieldName = $(this).attr("name");
+                    var value = $(this).val();
+                    data[fieldName] = value;
+                });
+
+                // Store modified data temporarily
+                modifiedData.push(data);
+
+                // Update row with new data
+                row.find("span.editable").each(function () {
+                    var fieldName = $(this).attr("data-name");
+                    var value = data[fieldName];
+                    $(this).text(value); // Update the text content with modified value
+                });
+
+                // Hide input fields and show edit button
+                inputs.hide();
+                row.find(".edit-btn").show();
+                row.find(".save-btn").hide();
+            });
+
+            // Add event listener to update the modified data in the table
+            $("#showModifiedDataBtn").click(function () {
+                showModifiedData();
+            });
+
+            function showModifiedData() {
+                // Loop through modifiedData array and display in alert
+                var modifiedDataStr = "";
+                modifiedData.forEach(function (data, index) {
+                    modifiedDataStr += "Modified Data " + (index + 1) + ":\n";
+                    for (var key in data) {
+                        if (data.hasOwnProperty(key)) {
+                            modifiedDataStr += key + ": " + data[key] + "\n";
+                        }
+                    }
+                    modifiedDataStr += "\n";
+                });
+
+                alert(modifiedDataStr);
+            }
+        });
+    </script>
+}
+
+
+

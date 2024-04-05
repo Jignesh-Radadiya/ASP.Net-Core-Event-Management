@@ -1,0 +1,104 @@
+﻿.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding-top: 11px;
+    background-color: #ffffff;
+    margin: auto;
+    width: 100%;
+    margin-bottom:50px;
+}
+.filter-card {
+    width: 500px;
+    height: 70px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    padding-bottom: 24px;
+    margin-bottom: 40px;
+    border: 1px solid #80c904;
+    margin-top: 50px;
+}
+
+.wrapper {
+    width: 500px;
+    height: 100px;
+    padding: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-card form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.month label {
+    font-size: 16px !important;
+}
+
+.month select {
+    font-size: 16px !important;
+}
+
+.filter-card button {
+    padding: 12px 28px 12px 28px;
+    border-style: none;
+    border-radius: 6px;
+    background-color: white;
+    cursor: pointer;
+}
+
+    .filter-card button:hover {
+        background-color: rgb(9, 140, 16);
+    }
+
+
+.one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 600px;
+    margin-top: 10px;
+    padding: 32px;
+    border-radius: 18px;
+    border: 2px solid #34D399;
+    /*margin-left: 300px;*/
+}
+
+.two {
+    width: 230px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+    .two h3 {
+        font-size: 24px;
+        text-transform: uppercase;
+        color: blue;
+        font-weight: bold;
+        margin-bottom: 40px;
+    }
+
+    .two p {
+        font-size: 18px;
+    }
+
+.three {
+    width: 450px;
+}
+
+    .three img {
+        width: 100%;
+        border-radius: 14px;
+    }

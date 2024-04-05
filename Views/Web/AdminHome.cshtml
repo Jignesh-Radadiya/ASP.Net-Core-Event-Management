@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "AdminHome";
+}
+
+
+<link rel="stylesheet" href="~/css/AdminHome.css" asp-append-version="true" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Admin</h1>
+        </div>
+        
+        <div class="card-container">
+            <a asp-controller="Web" asp-action="AdminEvent">
+            <div class="card">
+                <h2>Events</h2>
+                
+            </div>
+        </a>
+            <a asp-controller="Web" asp-action="Userdata">
+            <div class="card">
+                <h2>Users</h2>
+                
+            </div>
+            </a>
+            <a asp-controller="Web" asp-action="BookingData">
+                <div class="card">
+                <h2>Bookings</h2>
+                
+            </div>
+            </a>
+            <a asp-controller="Web" asp-action="Feedback">
+                <div class="card">
+                <h2>Contacts</h2>
+                
+            </div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>@{
+    ViewData["Title"] = "AdminHome";
+}
+</html>

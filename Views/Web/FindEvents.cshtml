@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "FindEvents";
+}
+
+<h1>FindEvents</h1>
+<link rel="stylesheet" href="~/css/FindEvents.css" asp-append-version="true" />
+<div class="container">
+    <form class="filter-card">
+        <div class="wrapper">
+            <div class="date">
+                <label htmlFor="month">Month : </label>
+                <select >
+                    <option>January</option>
+                    <option>February </option>
+                    <option>March</option>
+                    <option>April </option>
+                    <option>May</option>
+                    <option>June </option>
+                    <option>July</option>
+                    <option>August</option>
+                    <option>September</option>
+                    <option>Octomber </option>
+                    <option>November</option>
+                    <option>December </option>
+
+
+                </select>
+            </div>
+            <div class="date">
+                <label htmlFor="year">Year : </label>
+                <select >
+                    <option>2023</option>
+                    <option>2024 </option>
+                </select>
+            </div>
+        </div>
+    </form>
+    <div class="one">
+        <div class="two">
+            <h3>Heading</h3>
+            <p>
+                <span>Year:</span><br />
+                <span>Month:</span>
+            </p>
+            <p>Location</p>
+        </div>
+
+        <div class="three">
+            <img src="~/images/1.jpg" alt="alt image" />
+        </div>
+    </div>
+
+</div>

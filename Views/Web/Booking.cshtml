@@ -1,0 +1,26 @@
+﻿@model BookingModel
+
+<h1>Booking</h1>
+<link rel="stylesheet" href="~/css/Booking.css" asp-append-version="true" />
+<div class="one">
+    <div class="two">
+        <div class="three">
+            <p>Booking</p>
+        </div>
+    </div>
+    <form method="post">
+
+    <div class="four">
+        <input asp-for="Username" type="text"  placeholder="Name" />
+        <input asp-for="Email" type="email" placeholder="Email" />
+        <input asp-for="MobileNo" type="number" placeholder="Mobile No." pattern="[0-9]{10}" />
+        <input asp-for="EventName" type="text" placeholder="Event Name" />
+        <input asp-for="Date" type="date" placeholder="Date" />
+        <input asp-for="EventPlace" type="text" placeholder="Event Place" />
+        <button type="submit">
+            
+            Submit
+        </button>
+    </div>
+    </form>
+</div>
